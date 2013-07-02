@@ -106,8 +106,6 @@ Exception: if the first element is a prefix like pre-, post-, or anti-, or if th
 
 Choose link text that concisely indicates the nature of the linked document. Do not link terminal punctuation. Prefer shorter links to long ones.
 
-Alt-attribute text uses sentence-casing.
-
 ####Title-attribute text
 
 You may attach title text to links to convey additional information. Many web browsers display this information when the user’s cursor hovers over a link. A useful title attribute for an outbound link might read:
@@ -126,13 +124,15 @@ Examples:
 
 > **Bad**: Cartoon image.
 
+Alt-attribute text uses sentence-casing.
+
 ###PUNCTUATION
 
 **The ampersand**: Avoid the use of the ampersand except in article and page titles.
 
 **Citations**: The titles of books and other major works as well as the titles of magazines and newspapers are marked up with the `cite` or `em` element for italic emphasis. The titles of articles and other short works are enclosed in quotation marks.
 
-**Commas**: Use the serial comma (the comma preceding the “and” before the last element in a list) except in headlines and subheads.
+**Commas**: Use the serial comma (the comma preceding the “and” before the last element in a list) except in headlines.
 
 **Company and publication names**: Capitalize the names of companies according to each company’s preference unless they begin a sentence, in which case they must be capitalized. Do not capitalize or otherwise emphasize the definite article before the name of a publication—even the *New York Times*.
 
