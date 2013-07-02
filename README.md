@@ -40,9 +40,9 @@ Avoid unnecessary jargon, trendy constructions, vagueness, and buzzwords. Omit n
 ---
 ##Images
 
-As a rule, all images should be *at least* 640 px wide. This is the standard with of an article. If images are less than 640 px wide, your article will not look beautiful (and we really want beautiful articles). 
+As a rule, all images should be *at least* 640 px wide. This is the standard width of an article. If images are less than 640 px wide, your article will not look beautiful (and we really want beautiful articles). 
 
-If your image is over 640 px, great. It can be sized appropriately and optimized for efficient size and stunning clarity. 
+If your image is over 640 px, great. It can be sized appropriately and optimized for efficient storage and stunning clarity. 
 
 Skitch is an essential tool for resizing images, quick edits, and screen captures. ([Download](http://www.oldapps.com/mac/skitch_for_mac.php?old_skitch=10010))
 
