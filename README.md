@@ -206,11 +206,13 @@ Image adjustments, sizing, and compression should be completed before uploading 
 
 ###The Lede (rhymes with "need," not spelled "lead")
 
-The lede is the most important part of the story, literally. It is the sentence or paragraph (or sometimes series of paragraphs) that contain the most essential information or concept you're trying to share. Don't confuse this with a hook (a sentence designed to draw a reader in) or the subhead (an article summary that works in harmony with the title or headline).
+The lede is the most important part of the story, literally. It is the sentence or paragraph* (or sometimes series of paragraphs) that contain the most essential information or concept you're trying to share. Don't confuse this with a hook (a sentence designed to draw a reader in) or the subhead (an article summary that works in harmony with the title or headline).
 
 While the lede is the core of the story, it is not the story itself. Every sentence should move the story forward and have a clear relationship to the lede.
 
 Sometimes the lede doesn't actually lead off the article. This is called "burying the lede" and it's not always a bad thing. 
+
+*Here the concept of a lede and nut graph (nutshell paragraph) are combined togehter. They serve the same purpose through different forms.
 
 -------
 
