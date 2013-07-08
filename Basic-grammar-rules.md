@@ -324,3 +324,21 @@ The genitive has two quirks:
     A dream of Jeannie (not the genitive) is different from a dream of Jeannie’s. In this case, the genitive noun (here, Jeannie) must be a living thing or a person, and the word before of (dream) must constitute only a part of the whole (all of Jeannie’s dreams). 
 
     Thus, you’d write a friend of Bill’s—because Bill has many friends—and not a friend of Bill, the same as you’d write a friend of his and not a friend of him.
+    
+---
+
+###Quotation Marks
+
+Periods and commas always go within quotes. Semi-colons, and colons go outside the marks. Question marks and exclamation points go inside or outside depending on whether they belong to the quote or the greater sentence
+
+> "This taco reminds me of Fred," she said. | She said, "This taco reminds me of Fred."
+
+*Quotes go around…*
+
+* Titles of short stories, poems, or articles
+* Individual chapters in books
+* Individual songs
+* Single episodes of television
+
+> "The Road Not Taken" | "Silent Night" | Babylon Revisited"
+
