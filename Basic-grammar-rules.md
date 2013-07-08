@@ -246,7 +246,7 @@ Apostrophes can be used for omitted numerals.
 
 ####Possessive form
 
-**Possesive singular of nouns end with 's**
+**Possessive singular of nouns end with 's**
 
 > Steve's hairdryer | Marx's theories
 
@@ -271,9 +271,9 @@ If word is a singular noun ending in s, just add an apostrophe
 > for goodness' sake
 > for righteousness' sake
 
-**Joint versus seperate possession**
+**Joint versus separate possession**
 
-Closely linked nouns are refered to as a single unit when the possession in question is shared; therefore, the second item takes the possessive form.
+Closely linked nouns are referred to as a single unit when the possession in question is shared; therefore, the second item takes the possessive form.
 
 > my aunt and uncle's house
 > Minneapolis and Saint Paul's transportation system
@@ -284,11 +284,11 @@ When possessions are discreet, both take possessive form
 > Kris' and Tony's turntables
 > Blake's and Eric's beards
 
-**With compound nouns and noun phrases, the final noun takes the possesive form.**
+**With compound nouns and noun phrases, the final noun takes the possessive form.**
 
 > student assistants' time cards
 
-**If forming the possessive of italisized text, the 's is set in roman.**
+**If forming the possessive of italicized text, the 's is set in roman.**
 
 **Years should NEVER have an apostrophe unless they are used as possessive**
 
@@ -333,7 +333,7 @@ Periods and commas always go within quotes. Semi-colons, and colons go outside t
 
 > "This taco reminds me of Fred," she said. | She said, "This taco reminds me of Fred."
 
-*Quotes go around…*
+**Quotes go around…**
 
 * Titles of short stories, poems, or articles
 * Individual chapters in books
@@ -342,3 +342,51 @@ Periods and commas always go within quotes. Semi-colons, and colons go outside t
 
 > "The Road Not Taken" | "Silent Night" | Babylon Revisited"
 
+**Italics are used for...**
+
+* Titles of books, newspapers, or magazines
+* Titles of paintings, sculptures, films, or plays
+* Titles of musical albums, operas, and other longer works
+* Television or radio series
+
+> *Gone With the Wind* | The *New York Times* | *The Magic Flute* | *Seinfeld* | *Mona Lisa*
+
+---
+
+###Hyphens and dashes
+
+There are three types, the hyphen (-), the en dash (–), and the em dash (—).
+
+**Hyphens form compound adjectives.** Do not hyphenate -ly words.
+
+> full-time job | well-known speaker | easily remembered rule
+
+**The en dash** (it is the length of an n) is used to express intervals in numbers
+
+> 939–1934 | 3–9 p.m.
+
+**The em dash** (length of an m) indicates an abrupt insertion of change of thought mid-sentence.
+
+> The woman next door—her husband is a doctor—planted 500 petunias in her garden.
+
+There are no spaces between an em dash and its surrounding words.
+
+**Hyphenating for meaning**
+
+resign (to quit) is different from re-sign (to sign again)
+
+A fast sailing ship is different from a fast-sailing ship.
+
+A man eating squirrel is not a man-eating squirrel.
+
+**Hyphenate "ex-" when it means former**
+
+> ex-convict | ex-girlfriend
+
+**If a prefix ends and the following word begin with the same vowel,** do NOT use a hyphen. Instead, use a diaeresis.
+
+> reëlected | preëminent | coöperate
+
+**If you intend to use a create a prefixed word not found in the dictionary,** separate the prefix from the word with a hyphen.
+
+**The word email is not hyphenated.**
