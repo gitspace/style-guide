@@ -63,6 +63,8 @@ A comma can be used between two independent clauses if it offsets a statement fr
 
 > These shoes are brand new, aren't they?
 
+---
+
 ###Looking Closer at Commas
 
 Serial comma: in a series of three or more terms with a single conjunction, use a comma after each term except the last.
@@ -168,3 +170,146 @@ Specific Dates: When a date is used with month and year, set off the year with a
 
 > June 6, 1944, was D-Day.
 > D-Day occured in June 1944
+
+---
+
+###Capital Punishment
+
+####When you should capitalize...
+
+**Ethnic origins**
+
+> Caucasian | African American | Asian | Latino/a | Native American
+
+**Formal titles that precede names**
+
+> President Barrack Obama | Secretary of State Mickey Mouse
+
+Titles that follow names are NOT capitalized.
+
+**Historical periods**
+
+> Renaissance | Victorian | Middle Ages
+
+**Organizations and historical events**
+
+> Red Cross | World War II
+
+**Geographic regions**
+
+> South Texas | East Coast
+
+####When you shouldn't capitalize...
+
+**Academic degrees**
+
+> bachelor's degree | master's degree | doctorate | bachelor of arts | master of science
+
+Avoid B.A., M.S., and Ph.D. 
+
+**Fields of study**
+
+> philosophy department | biology | department of geosciences
+
+UNLESS they contain proper adjectives
+
+> English department | Spanish department
+
+**Academic honors**
+
+> cum laude | magna cum laude
+
+**Time designations**
+
+> a.m. | p.m.
+
+---
+
+###Apostrophe Catastrophes
+
+The apostrophe has two functions: to indicated omitted letter or numerals, and to form possessives.
+
+Contractions of verbs are easily and regularly formed with an apostrophe.
+
+> I'm for I am | It's for it is | They're for they are | Can't for can not
+
+Do not avoid spelling out verb phrases; they can be more powerful. 
+Negative verb phrases such as can not, do not, will not, etc., are more clear than their contraction equivalents.
+
+Apostrophes can be used for omitted letters to represent dialect or speech in writing. This can be difficult to pull off well and should be used sparingly or reserved for dialogue.
+
+> This flick will be rockin’ and reelin’ in theaters next month.
+
+Apostrophes can be used for omitted numerals.
+
+> The first baby boomers were born in the late ’40s.
+
+####Possessive form
+
+**Possesive singular of nouns end with 's**
+
+> Steve's hairdryer | Marx's theories
+
+**If the singular noun is proper and ends in an s, an 's is still used.
+
+> Dickens's novels | Texas's beaches | Kris's hair | General Motors's CEO
+
+Note: This is unique to Airspace style. The above is pronounced as Dickens's Texas's and Kris's and is written as such.
+
+If the singular noun is not proper, and ends in an s, add 's
+
+> That business's decision.
+
+Plural possessives are formed by adding an apostrophe after the plural s, unless the plural of the word does not end in an s
+
+> students' rights | women's studies
+
+**For…Sake Expressions**
+
+If word is a singular noun ending in s, just add an apostrophe
+
+for goodness' sake
+for righteousness' sake
+
+Joint versus seperate possession
+
+Closely linked nouns are refered to as a single unit when the possession in question is shared; therefore, the second item takes the possessive form.
+
+my aunt and uncle's house
+Minneapolis and Saint Paul's transportation system
+
+When possessions are discreet, both take possessive form
+
+my aunt's and uncle's medical profiles
+Kris' and Tony's turntables
+Blake's and Eric's beards
+
+With compound nouns and noun phrases, the final noun takes the possesive form.
+
+student assistants' time cards
+
+If forming the possessive of italisized text, the 's is set in roman.
+
+Years should NEVER have an apostrophe unless they are used as possessive
+
+1980s | 80s | 1750s
+1999's heaviest snowstorm
+
+The plural of single letters can have an apostrophe to avoid confusion.
+
+Billy received three A's 
+
+THE GENITIVE
+Adding an apostrophe to a noun makes that noun look like a possessive. But children’s choir, war’s casualties, Alzheimer’s disease, and similar constructions are genitives. The term genitive comes from a Latin word that denotes generating, or begetting. It is also related to the word genus, and like a genus, it is used to classify another noun. Unlike a typical possessive, the genitive doesn’t indicate ownership; it indicates some other relationship between the first and second noun.
+
+A genitive can indicate: 
+The source, as in the buyer’s counteroffer
+The agent, as in the fielder’s error
+The object of an action, as in the child’s rescue
+The purpose, as in ladies’ lingerie
+A type, as in a doctor’s appointment
+Length, as in two weeks’ vacation
+
+Careful writers use an apostrophe in such cases: teachers’ union rather than teachers union.
+
+The genitive has two quirks: First, you can use it without the primary noun, as in We are going to the doctor’s. Second, you can use it after of to indicate possession. A dream of Jeannie (not the genitive) is different from a dream of Jeannie’s. In this case, the genitive noun (here, Jeannie) must be a living thing or a person, and the word before of (dream) must constitute only a part of the whole (all of Jeannie’s dreams). Thus, you’d write a friend of Bill’s—because Bill has many friends—and not a friend of Bill, the same as you’d write a friend of his and not a friend of him.
