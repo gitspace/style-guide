@@ -1,4 +1,4 @@
-##The tips
+##Helpful Writing Tips
 
 1. Try to avoid overusing forms of "to be." Verbs like is, are, was, were, etc. tend to make writing passive. Action verbs are more engaging. Never use the passive voice when you can use the active. "The man was bitten by the dog," (passive) is longer and less forceful than "The dog bit the man." (Active).
 
