@@ -250,17 +250,17 @@ Apostrophes can be used for omitted numerals.
 
 > Steve's hairdryer | Marx's theories
 
-**If the singular noun is proper and ends in an s, an 's is still used.
+**If the singular noun is proper and ends in an s, an 's is still used.**
 
 > Dickens's novels | Texas's beaches | Kris's hair | General Motors's CEO
 
 Note: This is unique to Airspace style. The above is pronounced as Dickens's Texas's and Kris's and is written as such.
 
-If the singular noun is not proper, and ends in an s, add 's
+**If the singular noun is not proper, and ends in an s, add 's**
 
 > That business's decision.
 
-Plural possessives are formed by adding an apostrophe after the plural s, unless the plural of the word does not end in an s
+**Plural possessives are formed by adding an apostrophe after the plural s, unless the plural of the word does not end in an s**
 
 > students' rights | women's studies
 
@@ -268,48 +268,59 @@ Plural possessives are formed by adding an apostrophe after the plural s, unless
 
 If word is a singular noun ending in s, just add an apostrophe
 
-for goodness' sake
-for righteousness' sake
+> for goodness' sake
+> for righteousness' sake
 
-Joint versus seperate possession
+**Joint versus seperate possession**
 
 Closely linked nouns are refered to as a single unit when the possession in question is shared; therefore, the second item takes the possessive form.
 
-my aunt and uncle's house
-Minneapolis and Saint Paul's transportation system
+> my aunt and uncle's house
+> Minneapolis and Saint Paul's transportation system
 
 When possessions are discreet, both take possessive form
 
-my aunt's and uncle's medical profiles
-Kris' and Tony's turntables
-Blake's and Eric's beards
+> my aunt's and uncle's medical profiles
+> Kris' and Tony's turntables
+> Blake's and Eric's beards
 
-With compound nouns and noun phrases, the final noun takes the possesive form.
+**With compound nouns and noun phrases, the final noun takes the possesive form.**
 
-student assistants' time cards
+> student assistants' time cards
 
-If forming the possessive of italisized text, the 's is set in roman.
+**If forming the possessive of italisized text, the 's is set in roman.**
 
-Years should NEVER have an apostrophe unless they are used as possessive
+**Years should NEVER have an apostrophe unless they are used as possessive**
 
-1980s | 80s | 1750s
-1999's heaviest snowstorm
+> 1980s | 80s | 1750s
+> 1999's heaviest snowstorm
 
-The plural of single letters can have an apostrophe to avoid confusion.
+**The plural of single letters can have an apostrophe to avoid confusion.**
 
-Billy received three A's 
+> Billy received three A's 
 
-THE GENITIVE
-Adding an apostrophe to a noun makes that noun look like a possessive. But children’s choir, war’s casualties, Alzheimer’s disease, and similar constructions are genitives. The term genitive comes from a Latin word that denotes generating, or begetting. It is also related to the word genus, and like a genus, it is used to classify another noun. Unlike a typical possessive, the genitive doesn’t indicate ownership; it indicates some other relationship between the first and second noun.
+####THE GENITIVE
+
+Adding an apostrophe to a noun makes that noun look like a possessive. But children’s choir, war’s casualties, Alzheimer’s disease, and similar constructions are *genitives*. 
+
+The term genitive comes from a Latin word that denotes generating, or begetting. It is also related to the word genus, and like a genus, it is used to classify another noun. Unlike a typical possessive, the genitive doesn’t indicate ownership; it indicates some other relationship between the first and second noun.
 
 A genitive can indicate: 
-The source, as in the buyer’s counteroffer
-The agent, as in the fielder’s error
-The object of an action, as in the child’s rescue
-The purpose, as in ladies’ lingerie
-A type, as in a doctor’s appointment
-Length, as in two weeks’ vacation
+* The source, as in "the buyer’s counteroffer"
+* The agent, as in "the fielder’s error"
+* The object of an action, as in "the child’s rescue"
+* The purpose, as in "ladies’ lingerie"
+* A type, as in "a doctor’s appointment"
+* Length, as in "two weeks’ vacation"
 
 Careful writers use an apostrophe in such cases: teachers’ union rather than teachers union.
 
-The genitive has two quirks: First, you can use it without the primary noun, as in We are going to the doctor’s. Second, you can use it after of to indicate possession. A dream of Jeannie (not the genitive) is different from a dream of Jeannie’s. In this case, the genitive noun (here, Jeannie) must be a living thing or a person, and the word before of (dream) must constitute only a part of the whole (all of Jeannie’s dreams). Thus, you’d write a friend of Bill’s—because Bill has many friends—and not a friend of Bill, the same as you’d write a friend of his and not a friend of him.
+The genitive has two quirks: 
+
+* First, you can use it without the primary noun, as in "We are going to the doctor’s." 
+
+* Second, you can use it after "of" to indicate possession.
+
+    A dream of Jeannie (not the genitive) is different from a dream of Jeannie’s. In this case, the genitive noun (here, Jeannie) must be a living thing or a person, and the word before of (dream) must constitute only a part of the whole (all of Jeannie’s dreams). 
+
+    Thus, you’d write a friend of Bill’s—because Bill has many friends—and not a friend of Bill, the same as you’d write a friend of his and not a friend of him.
