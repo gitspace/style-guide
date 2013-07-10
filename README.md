@@ -19,6 +19,7 @@ Airspace Style
     5. [Commentary](#commentary)
     6. [Attribution](#attribution)
 + [Universal Writing Tips](#universal-writing-tips)
++ [Comprehensive Writing Tips](#writing-advice-for-hardcore-mofos)
 
 ---
 
