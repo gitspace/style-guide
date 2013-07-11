@@ -67,6 +67,8 @@ Author photos don’t need to be professional portraits, but should look polishe
 
 In general, we use U.S. English according to the *Chicago Manual of Style*, with *Garner’s Modern American Usage* taking over in tricky situations.
 
+This is just a general primer on conventions that are both general and *unique* to The Airspace. A more granular look can be found in the Punctuation, Grammar, and Conventions section.
+
 ###ARTICLE TITLES, HEADLINES, and SUBHEADS
 Title case article titles (each major word is uppercase). 
 Sentence case article headings (only the initial word is uppercase). 
