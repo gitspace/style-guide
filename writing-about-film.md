@@ -1,5 +1,7 @@
 ##Writing About Film
 
+*This section is under development*
+
 Any writing about films or television shows should fall into one of two categories:
 
 1. [Recommendation](#recommendation)
