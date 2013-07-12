@@ -19,7 +19,7 @@ Airspace Style
     5. [Commentary](#commentary)
     6. [Attribution](#attribution)
 + [Universal Writing Tips](#universal-writing-tips)
-+ [Comprehensive Writing Tips](#writing-advice-for-hardcore-mofos)
++ [Writing Tips for Making an Argument](#writing-tips-for-making-an-argument)
 
 ---
 
@@ -364,7 +364,7 @@ These elementary ideas apply to almost all types of writtng.
 
 -------
 
-#Writing Advice for Hardcore MOFOs
+#Writing Tips for Making an Argument
 
 Assuming you know how to arrange words to make sentences, these are the points you should keep in mind. They're in some kind of order, but I'm not sure what kind. It was originally a 27 point list, but I seperated it into four sections of five, and one section of seven for easy mental digestion.
 
