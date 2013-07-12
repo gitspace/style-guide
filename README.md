@@ -370,7 +370,7 @@ Assuming you know how to arrange words to make sentences, these are the points y
 
 * All of these rules apply *most of the time*. Being a good writer is what allows you to know when to break the rules.
 * Your article needs to make an argument. It can't just describe what something else says.
-* Your argument needs to be coherent and more or less linear. Clearly mark parentheticals of any time, and relegate them to footnotes if possible. Don't interrupt yourself. If something seems like it might be an interruption, it probably is.
+* Your argument needs to be coherent and more or less linear. Clearly mark parentheticals of any kind, and relegate them to footnotes if possible. Don't interrupt yourself. If something seems like it might be an interruption, it probably is.
 * Your introduction should serve as "argumentative titillation." Over the course of one or more paragraphs, you should establish a set of questions or problems your article will deal with.
 * Make your article narratively interesting. Your article tells a story; though the story is likely logical it nonetheless benefits from thinking about surprise, drama, and suspense.
 
