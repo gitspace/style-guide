@@ -344,7 +344,7 @@ These elementary ideas apply to almost all types of writtng.
 
 13. If the word "very" appears in your text, rewrite to remove it. Or, just cut it and see if the flow still works. 
 
-14. Try to avoid the adjective forms of "certain" and "specific." "Certian things causes specific consequences" is not a useful sentence as it only establishes a vague relationship.
+14. Try to avoid the adjective forms of "certain" and "specific." "Certain things cause specific consequences" is not a useful sentence as it only establishes a vague relationship.
 
 15. Remove "I believe," "I think," and "I feel," from all writing. As the writer, you are the authority on the topic. Your beliefs, thoughts, and feelings are implied.
 
