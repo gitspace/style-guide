@@ -380,7 +380,7 @@ Assuming you know how to arrange words to make sentences, these are the points y
 * Just like a paragraph is a unit in which one idea is measured, so is a sentence. Don't use semicolons to separate ideas; use them to separate the same idea divided in two sentences (cf. this sentence).
 * Paragraphs should be ordered in a way that makes sense. In general move from simple to complex, description to analysis, etc.
 * Balance the relationship between different levels of analysis: trees should be inside forests, forests inside broader topographies, and so on. The entire structuration of a paragraph or a paper is *fractal*: you need to close out paragraphs just as you close out sections just as you close out the entire paper. 
-* Your conclusion out to answer the question: If everything in the essay is true, what should the reader learn from it all? That may require gesturing towards an area of thought broader than the topic of your article to that point.
+* Your conclusion ought to answer the question: If everything in the essay is true, what should the reader learn from it all? That may require gesturing towards an area of thought broader than the topic of your article to that point.
 
 ******
 
