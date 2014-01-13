@@ -20,6 +20,7 @@ Airspace Style
     6. [Attribution](#attribution)
 + [Universal Writing Tips](#universal-writing-tips)
 + [Writing Tips for Making an Argument](#writing-tips-for-making-an-argument)
++ [Quick Bit on Reading](#bit-on-reading)
 
 ---
 
@@ -407,5 +408,26 @@ Assuming you know how to arrange words to make sentences, these are the points y
 * One good way to write a great article is to create a first draft, go through it and pick out the three or four really good ideas, throw everything else out, and start over.
 * To learn how to write better, read writers you admire and pay attention to their style (not their content). Then copy their style and make it your own.
 * Don't make long lists.
+
+------
+
+#Bit on Reading
+
+_From Bret Victor_
+
+It's tempting to judge what you read:
+
+**I agree with these statements, and I disagree with those.**
+
+However, a great thinker who has spent decades on an unusual line of thought cannot induce their context into your head in a few pages. It's almost certainly the case that you don't fully understand their statements.
+
+Instead, you can say:
+
+**I have now learned that there exists a worldview in which all of these statements are consistent.**
+
+And if it feels worthwhile, you can make a genuine effort to understand that entire worldview. You don't have to adopt it. Just make it available to yourself, so you can make connections to it when it's needed.
+
+
+
 
 
